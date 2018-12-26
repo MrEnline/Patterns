@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\bin\Debug\Adapter.exe
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\obj\Debug\Adapter.exe
+C:\Users\Sergey\source\repos\ConsoleApp2\Adapter\obj\Debug\Adapter.pdb

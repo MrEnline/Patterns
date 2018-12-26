@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.deps.json
+C:\Users\User\source\repos\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.runtimeconfig.json
+C:\Users\User\source\repos\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.runtimeconfig.dev.json
+C:\Users\User\source\repos\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.dll
+C:\Users\User\source\repos\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.pdb
+C:\Users\User\source\repos\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.AssemblyInfo.cs
+C:\Users\User\source\repos\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.dll
+C:\Users\User\source\repos\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.deps.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.runtimeconfig.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.runtimeconfig.dev.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\bin\Debug\netcoreapp2.1\AbstractFabric.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.csprojAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.AssemblyInfo.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\AbstractFabric\obj\Debug\netcoreapp2.1\AbstractFabric.pdb

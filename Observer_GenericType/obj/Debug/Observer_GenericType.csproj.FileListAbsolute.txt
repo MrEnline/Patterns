@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\bin\Debug\Observer_GenericType.exe.config
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\bin\Debug\Observer_GenericType.exe
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\bin\Debug\Observer_GenericType.pdb
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\obj\Debug\Observer_GenericType.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\obj\Debug\Observer_GenericType.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\obj\Debug\Observer_GenericType.exe
+C:\Users\Sergey\source\repos\ConsoleApp2\Observer_GenericType\obj\Debug\Observer_GenericType.pdb

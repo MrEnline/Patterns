@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\bin\Debug\AdapterDrawingEditor.exe.config
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\bin\Debug\AdapterDrawingEditor.exe
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\bin\Debug\AdapterDrawingEditor.pdb
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\obj\Debug\AdapterDrawingEditor.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\obj\Debug\AdapterDrawingEditor.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\obj\Debug\AdapterDrawingEditor.exe
+C:\Users\Sergey\source\repos\ConsoleApp2\AdapterDrawingEditor\obj\Debug\AdapterDrawingEditor.pdb
