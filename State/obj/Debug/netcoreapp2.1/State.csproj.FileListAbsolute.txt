@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\bin\Debug\netcoreapp2.1\State.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\bin\Debug\netcoreapp2.1\State.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\bin\Debug\netcoreapp2.1\State.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\bin\Debug\netcoreapp2.1\State.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\bin\Debug\netcoreapp2.1\State.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\obj\Debug\netcoreapp2.1\State.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\obj\Debug\netcoreapp2.1\State.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\obj\Debug\netcoreapp2.1\State.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\obj\Debug\netcoreapp2.1\State.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\State\obj\Debug\netcoreapp2.1\State.pdb

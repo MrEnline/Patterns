@@ -1,0 +1,11 @@
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\bin\Debug\netcoreapp2.1\FabricMethod.deps.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\bin\Debug\netcoreapp2.1\FabricMethod.runtimeconfig.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\bin\Debug\netcoreapp2.1\FabricMethod.runtimeconfig.dev.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\bin\Debug\netcoreapp2.1\FabricMethod.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\bin\Debug\netcoreapp2.1\FabricMethod.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\obj\Debug\netcoreapp2.1\FabricMethod.csprojAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\obj\Debug\netcoreapp2.1\FabricMethod.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\obj\Debug\netcoreapp2.1\FabricMethod.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\obj\Debug\netcoreapp2.1\FabricMethod.AssemblyInfo.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\obj\Debug\netcoreapp2.1\FabricMethod.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\FabricMethod\obj\Debug\netcoreapp2.1\FabricMethod.pdb

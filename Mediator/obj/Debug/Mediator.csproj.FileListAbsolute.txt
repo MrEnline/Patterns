@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Mediator\obj\Debug\Mediator.pdb

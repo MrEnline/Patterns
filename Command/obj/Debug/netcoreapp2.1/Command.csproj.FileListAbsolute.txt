@@ -1,0 +1,11 @@
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\bin\Debug\netcoreapp2.1\Command.deps.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.dev.json
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\bin\Debug\netcoreapp2.1\Command.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\bin\Debug\netcoreapp2.1\Command.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\obj\Debug\netcoreapp2.1\Command.csprojAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\obj\Debug\netcoreapp2.1\Command.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfo.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\obj\Debug\netcoreapp2.1\Command.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\Patterns\Command\obj\Debug\netcoreapp2.1\Command.pdb
